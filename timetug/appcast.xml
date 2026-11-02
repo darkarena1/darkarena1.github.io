@@ -3,10 +3,10 @@
   <channel>
     <title>TimeTug</title>
     <item>
-      <title>TimeTug 2.1.0-beta.20261101185253</title>
-      <pubDate>Sun, 01 Nov 2026 18:56:27 GMT</pubDate>
-      <sparkle:version>20261101185253</sparkle:version>
-      <sparkle:shortVersionString>2.1.0-beta.20261101185253</sparkle:shortVersionString>
+      <title>TimeTug 2.1.0-beta.20261102172253</title>
+      <pubDate>Mon, 02 Nov 2026 17:27:01 GMT</pubDate>
+      <sparkle:version>20261102172253</sparkle:version>
+      <sparkle:shortVersionString>2.1.0-beta.20261102172253</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <description>&lt;!DOCTYPE html&gt;
@@ -31,17 +31,17 @@ pre { white-space: pre-wrap; overflow-wrap: anywhere; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;p dir="auto"&gt;Beta build from &lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/binary-companion/timetug/commit/b712da72c707d0336a715d6b4b7320adbc6fdc2a/hovercard" href="https://github.com/binary-companion/timetug/commit/b712da72c707d0336a715d6b4b7320adbc6fdc2a"&gt;&lt;tt&gt;b712da7&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="auto"&gt;Beta build from &lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/binary-companion/timetug/commit/5b41c12f805dec17f26fd58c088cc254da3fd9ac/hovercard" href="https://github.com/binary-companion/timetug/commit/5b41c12f805dec17f26fd58c088cc254da3fd9ac"&gt;&lt;tt&gt;5b41c12&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </description>
-      <enclosure url="https://github.com/binary-companion/timetug/releases/download/beta-20261101185253/TimeTug-2.1.0-beta.20261101185253.zip" length="9707760" type="application/octet-stream" sparkle:edSignature="J8FR+PA/lhCRhXOPvfN2RwTKF0ngbT0cGQmhcBr0IVyNFQ0jVT5q+uzIdhKkSDcTFt2bl9klCB9hUgWZUdRMCg==" />
+      <enclosure url="https://github.com/binary-companion/timetug/releases/download/beta-20261102172253/TimeTug-2.1.0-beta.20261102172253.zip" length="9737138" type="application/octet-stream" sparkle:edSignature="tdtsEqFRt9Gb2EDHm04Ks3umgFSylueo09P5owAteHpgwZxOAT/mEo5v/0HarJZ/QCNAn3IDzQpCaOYziDKgCw==" />
     </item>
     <item>
-      <title>TimeTug 2.1.0-beta.20261101160722</title>
-      <pubDate>Sun, 01 Nov 2026 16:11:52 GMT</pubDate>
-      <sparkle:version>20261101160722</sparkle:version>
-      <sparkle:shortVersionString>2.1.0-beta.20261101160722</sparkle:shortVersionString>
+      <title>TimeTug 2.1.0-beta.20261102144421</title>
+      <pubDate>Mon, 02 Nov 2026 14:47:42 GMT</pubDate>
+      <sparkle:version>20261102144421</sparkle:version>
+      <sparkle:shortVersionString>2.1.0-beta.20261102144421</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <description>&lt;!DOCTYPE html&gt;
@@ -66,17 +66,17 @@ pre { white-space: pre-wrap; overflow-wrap: anywhere; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;p dir="auto"&gt;Beta build from &lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/binary-companion/timetug/commit/dab68b54c5e780e3c00d53b18c6c115beae660f2/hovercard" href="https://github.com/binary-companion/timetug/commit/dab68b54c5e780e3c00d53b18c6c115beae660f2"&gt;&lt;tt&gt;dab68b5&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="auto"&gt;Beta build from &lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/binary-companion/timetug/commit/012c686c65d54484c32c5ca45dec792031dcc89f/hovercard" href="https://github.com/binary-companion/timetug/commit/012c686c65d54484c32c5ca45dec792031dcc89f"&gt;&lt;tt&gt;012c686&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </description>
-      <enclosure url="https://github.com/binary-companion/timetug/releases/download/beta-20261101160722/TimeTug-2.1.0-beta.20261101160722.zip" length="9707768" type="application/octet-stream" sparkle:edSignature="WPwjc6777RhjKcIS+iT1xULM9/gQ42w+SorJ8oB/pn3m+08eFfsmeHdT239S/NuiIqTXLU2H9KuU8WFBYmj7AQ==" />
+      <enclosure url="https://github.com/binary-companion/timetug/releases/download/beta-20261102144421/TimeTug-2.1.0-beta.20261102144421.zip" length="9707771" type="application/octet-stream" sparkle:edSignature="gQosh5tbwOP9ybSDnf0xGeT9kwzvBFvmPn2FKjeEhH4oFQL1IBxhFiS2hr0SHdQqXisfmrs3XOEZqpRAcSK5BQ==" />
     </item>
     <item>
-      <title>TimeTug 2.1.0-beta.20261101152545</title>
-      <pubDate>Sun, 01 Nov 2026 15:30:04 GMT</pubDate>
-      <sparkle:version>20261101152545</sparkle:version>
-      <sparkle:shortVersionString>2.1.0-beta.20261101152545</sparkle:shortVersionString>
+      <title>TimeTug 2.1.0-beta.20261102122353</title>
+      <pubDate>Mon, 02 Nov 2026 12:28:21 GMT</pubDate>
+      <sparkle:version>20261102122353</sparkle:version>
+      <sparkle:shortVersionString>2.1.0-beta.20261102122353</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <description>&lt;!DOCTYPE html&gt;
@@ -101,17 +101,17 @@ pre { white-space: pre-wrap; overflow-wrap: anywhere; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;p dir="auto"&gt;Beta build from &lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/binary-companion/timetug/commit/8f9667707f5f84efc30ec96305408a2e8b7b5c5f/hovercard" href="https://github.com/binary-companion/timetug/commit/8f9667707f5f84efc30ec96305408a2e8b7b5c5f"&gt;&lt;tt&gt;8f96677&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="auto"&gt;Beta build from &lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/binary-companion/timetug/commit/0a65e3c6700fcee3b115d53bc9d4ca675319419a/hovercard" href="https://github.com/binary-companion/timetug/commit/0a65e3c6700fcee3b115d53bc9d4ca675319419a"&gt;&lt;tt&gt;0a65e3c&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </description>
-      <enclosure url="https://github.com/binary-companion/timetug/releases/download/beta-20261101152545/TimeTug-2.1.0-beta.20261101152545.zip" length="9706743" type="application/octet-stream" sparkle:edSignature="7bm1iBvz1ZUymwsrSAhVjOWXSKprvsxORZkaGhDb2HPXEaAQ/1lJJkWX665brYmgrwEjEguJ7R1km3X5zACADQ==" />
+      <enclosure url="https://github.com/binary-companion/timetug/releases/download/beta-20261102122353/TimeTug-2.1.0-beta.20261102122353.zip" length="9707769" type="application/octet-stream" sparkle:edSignature="hauW0cDP0OcmCCsiI5Wtt4aAUpRf7V+Lc+3l+hvAKe+3N0tlQm4kviTaz4Pqfb6nfIJpjLE15GLfUI20T4WHBQ==" />
     </item>
     <item>
-      <title>TimeTug 2.1.0-beta.20261101132708</title>
-      <pubDate>Sun, 01 Nov 2026 13:30:48 GMT</pubDate>
-      <sparkle:version>20261101132708</sparkle:version>
-      <sparkle:shortVersionString>2.1.0-beta.20261101132708</sparkle:shortVersionString>
+      <title>TimeTug 2.1.0-beta.20261102120524</title>
+      <pubDate>Mon, 02 Nov 2026 12:09:25 GMT</pubDate>
+      <sparkle:version>20261102120524</sparkle:version>
+      <sparkle:shortVersionString>2.1.0-beta.20261102120524</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <description>&lt;!DOCTYPE html&gt;
@@ -136,17 +136,17 @@ pre { white-space: pre-wrap; overflow-wrap: anywhere; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;p dir="auto"&gt;Beta build from &lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/binary-companion/timetug/commit/97f4538a3c33a1114beeac5596dcdda963c2662c/hovercard" href="https://github.com/binary-companion/timetug/commit/97f4538a3c33a1114beeac5596dcdda963c2662c"&gt;&lt;tt&gt;97f4538&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="auto"&gt;Beta build from &lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/binary-companion/timetug/commit/9b2b54256aad9e1033e5d15ac86b758358b0916b/hovercard" href="https://github.com/binary-companion/timetug/commit/9b2b54256aad9e1033e5d15ac86b758358b0916b"&gt;&lt;tt&gt;9b2b542&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </description>
-      <enclosure url="https://github.com/binary-companion/timetug/releases/download/beta-20261101132708/TimeTug-2.1.0-beta.20261101132708.zip" length="9675014" type="application/octet-stream" sparkle:edSignature="ly4jTwTdlf80qQn2XIeQH+QqFWxa4/LxoifeFQrknFPmFqgD91s6LI5fEabyUOfbz56Z+UL5BFovzyXBTZs1BA==" />
+      <enclosure url="https://github.com/binary-companion/timetug/releases/download/beta-20261102120524/TimeTug-2.1.0-beta.20261102120524.zip" length="9707717" type="application/octet-stream" sparkle:edSignature="WajYOG0SgHArr5eSpzUh7x/SeIo3GzMp9BCdfUH7wC4qdMBxkQXtEGqYZ+edPFQUPLZZeuTi8g+66qpdRpfaCw==" />
     </item>
     <item>
-      <title>TimeTug 2.1.0-beta.20261101082450</title>
-      <pubDate>Sun, 01 Nov 2026 08:29:40 GMT</pubDate>
-      <sparkle:version>20261101082450</sparkle:version>
-      <sparkle:shortVersionString>2.1.0-beta.20261101082450</sparkle:shortVersionString>
+      <title>TimeTug 2.1.0-beta.20261102082900</title>
+      <pubDate>Mon, 02 Nov 2026 08:31:49 GMT</pubDate>
+      <sparkle:version>20261102082900</sparkle:version>
+      <sparkle:shortVersionString>2.1.0-beta.20261102082900</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:channel>beta</sparkle:channel>
       <description>&lt;!DOCTYPE html&gt;
@@ -171,11 +171,11 @@ pre { white-space: pre-wrap; overflow-wrap: anywhere; }
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-&lt;p dir="auto"&gt;Beta build from &lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/binary-companion/timetug/commit/63c3ed60358083e967da1512e73465506a4c2331/hovercard" href="https://github.com/binary-companion/timetug/commit/63c3ed60358083e967da1512e73465506a4c2331"&gt;&lt;tt&gt;63c3ed6&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="auto"&gt;Beta build from &lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/binary-companion/timetug/commit/beadaa4eb5ed93e66214a8fc21f31d883613f6c6/hovercard" href="https://github.com/binary-companion/timetug/commit/beadaa4eb5ed93e66214a8fc21f31d883613f6c6"&gt;&lt;tt&gt;beadaa4&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </description>
-      <enclosure url="https://github.com/binary-companion/timetug/releases/download/beta-20261101082450/TimeTug-2.1.0-beta.20261101082450.zip" length="9674996" type="application/octet-stream" sparkle:edSignature="xnHiB40PELj2lCjnAMRoHPnp8g+YAm2/UjnAZWsGujunPThftfkQ1MNiqjxjnM27FJUID+Dvc1Qt4dkPAb9vDA==" />
+      <enclosure url="https://github.com/binary-companion/timetug/releases/download/beta-20261102082900/TimeTug-2.1.0-beta.20261102082900.zip" length="9707728" type="application/octet-stream" sparkle:edSignature="nbBeIw7cRMaZiYRIwbBTSr2ZK2OMwe5261QiOAExPTMh1JmFBBTXlbMrgPK+mqExTIoWGhBAnAvx+Yw8ElVKDg==" />
     </item>
     <item>
       <title>TimeTug 2.1.0</title>
